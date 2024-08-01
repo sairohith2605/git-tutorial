@@ -1,0 +1,6 @@
+This is sample code
+
+Staged/ Unstafed
+
+Staged - File is ready for commit
+Unstaged - Changes are made to the file, but is not ready for commit
