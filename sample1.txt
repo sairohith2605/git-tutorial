@@ -4,3 +4,5 @@ Staged/ Unstafed
 
 Staged - File is ready for commit
 Unstaged - Changes are made to the file, but is not ready for commit
+
+We have shifted to a new branch using git checkout
